@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">App_Professor</string>
+
+    <string name="nome"> </string>
+    <string name="email"> </string>
+    <string name="senha"> </string>
+
+    <string name="logar"> Log-In </string>
+    <string name="cadastrar_se"> Cadastre-se </string>
+
+    <string name="ja_cadastro"> Já cadastrou? Log-In.</string>
+    <string name="log_out"> Logout </string>
+
+    <string name="Pergunta"> </string>
+    <string name="Opção_a"> </string>
+    <string name="Opção_b"> </string>
+    <string name="Opção_c"> </string>
+    <string name="Opção_d"> </string>
+
+    <string name="button_add_question"> Adicionar questão</string>
+    <string name="button_send_list"> Enviar lista</string>
+
+    <string name="button_ver_question"> Ver lista de questões</string>
+    <string name="button_ver_resps"> Ver respostas dos alunos</string>
+    <string name="title_activity_jjjjj">jjjjj</string>
+
+    <string name="Aluno"> Aluno</string>
+    <string name="Professor"> Professor</string>
+
+
+</resources>
